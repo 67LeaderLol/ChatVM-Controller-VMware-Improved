@@ -2,9 +2,11 @@
 
 ## ⚠️ IMPORTANT NOTICE
 
-VNC_PORT = 5900
-VNC_PASSWORD = 1234
-Snapshot Name = snp
+**VNC_PORT = 5900**
+
+**VNC_PASSWORD = 1234**
+
+**Snapshot Name = snp**
 
 This repository does **not** contain the source code.
 
